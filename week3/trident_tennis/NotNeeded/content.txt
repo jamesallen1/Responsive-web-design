@@ -1,0 +1,113 @@
+1.  Title:  Trident Tennis Home
+
+<h1>Welcome to the Trident Tennis Center!</h1>
+
+<p>The Trident Tennis Center is a nationally recognized USTA facility serving the entire community. This professionally staffed, full service tennis center offers unsurpassed quality programming and facilities to members and the general public.
+</p>
+<p>The Tennis Center is owned by Trident Technical College and is open to members and the general public.
+</p>
+<p>The center features 24 courts (12 hard courts, 6 soft courts and 6 covered courts) and is open seven days a week. Our pro shop is fully stocked to satisfy all of your tennis needs. The racquet and stringing department is ready to provide fast service using the finest quality material and workmanship.
+</p>
+<p>Training programs include One-on-one and group lessons, Academy, High School Programs, Junior Programs and Summer Camps, and Adult clinics and leagues.
+</p>
+
+2.  Title: Trident Tennis Academy Programs
+
+<h1>Academy Programs</h1>
+
+<p>The Trident Tennis Center offers a challenging and innovative Academy program, providing 
+an intensive yet fun year-round tennis training program. Our program is designed to meet the 
+comprehensive needs of a wide range of competitive junior tennis players, with a particular 
+emphasis on individual education. Our goal is to help every junior reach his or her full 
+potential on and off the court. Each program uses fed ball and live ball drills, adjusted to 
+each group’s level, to maximize player development.
+</p>
+<p>For more information about any of these programs please contact Ben Maes, Head Tennis Professional.
+</p>
+<h2> Billing and Payments</h2>
+
+<p>For Tennis Center members, all Academy and Performance Squad program billing will occur 
+at the beginning of the month. Non-members must pay in advance. Discounts are available for 
+multiple children in the same family!
+</p>
+<h2>Tennis Academy</h2>
+
+<p>Tennis Academy is designed for younger juniors with a Southern ranking or older juniors 
+trying to improve their ranking. The goal of Tennis Academy is to provide a balanced training 
+environment for the junior player, ensuring proper growth of all skills needed as both a person 
+and a player. Four elements make up this environment – Academy drills, ladder, private lessons and 
+tournaments.
+</p>
+<h2> Times:</h2>
+  Monday, Wednesday and Friday – 4:30 PM to 6:30 PM
+
+<h2>Costs</h2>
+
+<p>Members $200.00/month (unlimited attendance)</p>
+<p>Non-Members $250.00/month (unlimited attendance)</p>
+
+3. Title Trident Tennis Membership
+
+<h1>Membership</h1>
+
+<p>The Trident Tennis Center is proud to serve the community by having programs and services 
+available for members and non-members alike. As they say, though, membership has its privileges!
+ By becoming a member of the Trident Tennis Center, you help us keep the world-class standards 
+ of the facility, and you’re also entitled to the following benefits:
+</p>
+<ol>
+<li>Court Reservations up to seven days in advance (non-members can only reserve the day of play).
+</li>
+<li>Court Fees waived for outdoor courts;</li>
+<li>League Facility Fees for ALTA and SCTA waived;</li>
+<li>Round Robin entry fees waived;</li>
+<li>Priority when registering for group lessons;</li>
+<li>Discounts on Covered Court Fees;</li>
+<li>Discounts on private lessons (and deep discounts on lesson packages);</li>
+<li>Discounts on group lessons and Junior Academy;</li>
+<li>Discounts on apparel and footwear in the Pro Shop;</li>
+<li>Email alerts on Pro Shop sales and events;</li>
+<li>Special Members-only tournaments and events;</li>
+<li>FREE serving basket and balls (available at the front desk);</li>
+<li>FREE daily lockers;</li>
+<li>FREE Placement Assistance for USTA/SCTA;</li>
+<li>FREE Challenge Ladder</li>
+</ol>
+
+4.  Title Trident Tennis Mission
+
+<h1>Our Mission</h1>
+<ul>
+
+<li>To provide friendly efficient customer service in a family 
+atmosphere to the public and members alike. Create world class 
+tennis programs with teaching instruction for the recreational to 
+advanced player. Schedule tournaments at our USTA Nationally 
+recognized facility for local and national participation. </li>
+
+<li>Assist in growing tennis in our community.</li>
+
+<li> Whether you’re interested in group or private lessons, 
+friendly Round Robins or league tennis, the Trident Tennis Center is 
+the place for you.</li>
+
+<li>Twenty-four tennis courts including 12 hard courts, 6 soft
+courts and 6 covered courts are available for your use, seven days a 
+week. The pro shop is fully stocked to satisfy all of your tennis 
+needs. The racquet and stringing department is ready to provide fast 
+service using the finest quality material and workmanship.</li>
+
+<li>Trident Tennis Center pros provide programming for the novice 
+through advanced player and junior through senior players. A wide
+variety of one-on-one and group lessons are available. Training 
+programs include Academy, High School Programs, Junior Programs and 
+Summer Camps. Our fun and health conscious atmosphere makes it easy
+to learn the sport and enjoy improving your tennis skills.</li>
+</ul>
+
+<h2>Not a member? </h2>
+
+<p>You can still use the courts, take lessons and even shop in the pro 
+shop! While members do receive reduced rates for lessons, court fees
+and more, membership is optional. The Tennis Center is owned by the 
+City of Trident and is open to members and the general public.</p>
