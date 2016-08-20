@@ -1,0 +1,99 @@
+.navbar-inverse{
+background-image: linear-gradient(to right, rgba(169,3,41,1) 0%, rgba(143,2,34,1) 41%, rgba(109,0,25,1) 100%);	
+/*background: rgba(21,40,183,1);
+background: -moz-linear-gradient(left, rgba(21,40,183,1) 0%, rgba(18,27,155,1) 100%);
+background: -webkit-gradient(left top, right top, color-stop(0%, rgba(21,40,183,1)), color-stop(100%, rgba(18,27,155,1)));
+background: -webkit-linear-gradient(left, rgba(21,40,183,1) 0%, rgba(18,27,155,1) 100%);
+background: -o-linear-gradient(left, rgba(21,40,183,1) 0%, rgba(18,27,155,1) 100%);
+background: -ms-linear-gradient(left, rgba(21,40,183,1) 0%, rgba(18,27,155,1) 100%);
+background: linear-gradient(to right, rgba(21,40,183,1) 0%, rgba(18,27,155,1) 100%);
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#1528b7', endColorstr='#121b9b', GradientType=1 );	
+*/
+}
+.navbar-inverse .navbar-nav > .active > a{
+background-image: linear-gradient(to right, rgba(169,3,41,1) 0%, rgba(143,2,34,1) 41%, rgba(109,0,25,1) 100%);
+}
+.navbar-inverse .navbar-nav > a:hover{
+background-image: linear-gradient(to right, rgba(169,3,41,1) 0%, rgba(143,2,34,1) 41%, rgba(109,0,25,1) 100%);
+}
+.navbar-inverse .navbar-nav > li > a:hover, .navbar-inverse .navbar-nav > li > a:focus {
+    background-color: rgba(109,0,25,1);
+   /* background-color: rgba(24,24,24,1); Color=Black*/
+    /*color: #FFC0CB;*/
+}
+.row_margin{
+	margin: 3% 0;
+	background-color:red;
+}
+.img-rounded{
+	border-radius: 10%;
+}
+address{
+	margin: 2% 5%; /* 2% top bottom 5% left right*/
+}
+.bg-info{
+	background-color: rgba(239,197,202,1);  change background light red
+	/*background-color: rgba(233,212,179,1);*/  /*change background light beige
+}
+.btn{
+	background-color: rgba(239,197,202,1); /*this did not work*/
+}
+footer{
+	text-align:center;   /*//Fixed! not working when stretched full screen. fixed. div in wrong place*/ 
+	background-color: rgba(227,203,166,1); /*change background beige, doesn't work. .bg-info overrides it.*/    
+}
+.btn-lg{
+	background-color: rgba(239,197,202,1);
+}
+.jumbotron{
+	background-color:rgba(227,203,166,1); 
+}
+.img{
+	background-color:rgba(227,203,166,1); 
+}
+/*.container{
+	background-color:rgba(227,203,166,1) 94%; 
+}*/
+/*Colors:
+rgba(239,197,202,1) = light red
+rgba(147,206,222,1) = aqua
+rgba(227,203,166,1) 94% = beige
+rgba(233,212,179,1) = 100% light beige
+rgba(251,218,129,1) 94% = yellow*/
+aside{
+     width: 275px;
+     float: left;
+     margin: 5px;
+     padding: 5px;
+     background: greenyellow;
+     border-style: solid;
+     border-width: 1px;
+}
+#body-twitterFeed{
+height: 80%;
+padding: 5px 10px 5px 10px;
+overflow: hide;
+width: 100%;
+align-content:center;
+align-self:center;
+align-items:center;
+alignment-baseline:central;
+}
+h4{
+	text-align:center;
+}
+.button{
+	text-align:center;
+	align-self:center;
+}
+p a{
+	text-align:center;
+	align-self:center;
+}
+h1{
+	text-align:center;
+	margin-top:2%;
+}
+.nav > li > a:hover{
+    background-color:#FCC;
+}

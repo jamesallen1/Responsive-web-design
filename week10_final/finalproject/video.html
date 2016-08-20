@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1"> 
+    <!-- this monitors the size of the window -->
+      <title>  </title>
+    <!-- Bootstrap -->
+    <!-- Latest compiled and minified CSS -->
+   <link href="css/bootstrap.min.css" rel="stylesheet">
+   <link rel="stylesheet" href="css/bootstrap-theme.min.css">
+   <link rel="stylesheet" href="js/bootstrap.min.js">
+   <link rel="stylesheet" type="text/css" href="skateboardshopstyles.css">
+</head>
+
+<body background="images/space.jpg">
+<nav class="navbar navbar-inverse">
+  <div class="container-fluid">
+    <!-- Brand and toggle get grouped for better mobile display -->
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="#">James's SkateShop</div>
+
+    <!-- Collect the nav links, forms, and other content for toggling -->
+    <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+      <ul class="nav navbar-nav">
+        <li><a href="index.html">Home <span class="sr-only">(current)</span></a></li>
+        <li><a href="aboutus.html">About Us</a></li>
+        <li><a href="membership.html">Membership</a></li>
+        <li><a href="events.html">Events</a></li>
+        <li class="active"><a href="video.html">Video</a></li>
+        <li><a href="twitter.html">Twitter</a></li>
+        <li class="dropdown">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">More<span class="caret"></span></a>
+          <ul class="dropdown-menu">
+            <li><a href="index.html">Home</a></li>
+            <li><a href="aboutus.html">About us</a></li>
+            <li><a href="membership.html">Membership</a></li>
+            <li><a href="events.html">Events</a></li>
+            <li role="separator" class="divider"></li>
+            <li><a href="video.html">Video</a></li>
+            <li><a href="twitter.html">Twitter</a></li>
+            <li role="separator" class="divider"></li>
+            <li><a href="accessories.html">Accessories</a></li>
+            <li><a href="clothing.html">Clothing</a></li>
+          </ul>
+        </li>
+      </ul>
+      <form class="navbar-form navbar-right" role="search">
+        <div class="form-group">
+          <input type="text" class="form-control" placeholder="Search">
+        </div>
+        <button type="submit" class="btn btn-default">Submit</button>
+      </form>
+
+    </div><!-- /.navbar-collapse -->
+  </div><!-- /.container-fluid -->
+</nav>
+<div class="container">
+  <div class="jumbotron">
+    <h1>Responsive Skate Video's 
+    <center><img class="img-circle img-responsive" src="images/wow.gif" alt="wow gif" width="350" height="250"></center>
+    </h1>
+    
+    
+
+<!-- Start of Embed Responsive Video's -->
+<div class="embed-responsive embed-responsive-16by9">
+<iframe class="embed-responsive-item" width="600" height="400" src="https://www.youtube.com/embed/1fl51Rpt1ZA?wmode=opaque" frameborder="0" allowfullscreen></iframe>
+</div>
+<p><br></p>
+<div class="embed-responsive embed-responsive-16by9">
+<iframe class="embed-responsive-item" width="600" height="400" src="https://www.youtube.com/embed/nCrhf-pyX_g?wmode=opaque" frameborder="0" allowfullscreen></iframe>
+</div>
+<p><br></p>
+<!-- End of Embed Responsive Video's -->
+
+  <p><a class="btn btn-primary btn-lg" href="twitter.html" role="button">Twitter Feeds</a></p>
+  </div>  <!-- End of Jumbotron -->
+
+
+<div class="row_margin">  <!-- 3rd row or footer -->
+  <footer class="bg-info">
+    <div class="row">
+      <div class="col-md-12">
+        <address>
+          <strong>James's SkateShop</strong><br>
+          1234 Skate Street<br>
+          Charleston, SC 29420<br>
+          <abbr title="Phone">P:</abbr> (123) 456-7890
+          <a href="mailto:#">james@theskateshop.com</a><br>
+          <div class = "SocialLinks">
+          <a href="http://www.twitter.com"><img src="images/twitter.png" height="40" width="40"></a>
+          <a href="http://www.linkedin.com"><img src="images/linkedin.png" height="40" width="40"></a>
+          <a href="http://www.facebook.com"><img src="images/FaceBook.png" height="40" width="40"></a>
+          <a href="http://www.youtube.com"><img src="images/youtube.png" height="40" width="40"></a>
+          <a href="twitter.html"><img class="img-rounded" src="images/chihuahua.gif" height="40" width="40"></a>
+          </div>
+        </address>
+      </div> <!-- end of left column? or col-md-4  -->        
+    </div><!-- end of footer row -->
+  </footer>
+</div><!-- End of 3rd row footer, this was my footer issue -->
+</div>  <!-- Entire Site Container. Place at end? Was at line87 after end of jumbotron--> 
+
+<!-- Placed at the end of the document so the pages load faster -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+    <script src="js/docs.min.js"></script> 
+    <script type="text/javascript">
+    $(function () {
+    $('[data-toggle="popover"]').popover()
+})
+    $('.skate_example').popover({
+trigger: 'hover'
+    })
+</script>
+
+</body>
+</html>
