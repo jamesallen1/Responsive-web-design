@@ -1,0 +1,52 @@
+.start_box {
+  border-style: solid;
+  broder-width: 2px;
+  padding: 20px;
+}
+
+header {
+  background-color: aqua;
+  /*display: inline-block;
+  margin-left: 10px; */
+}
+
+nav {
+  background-color: wheat;
+}
+
+nav li{
+	display: inline-block;
+	margin: 0px 20px;
+}
+
+section{
+	height: 200px;
+	float: left;
+	width: 600px; 
+	background-color: lime;
+}
+
+aside{
+	height: 200px;
+	float: left;
+	width: 268px; 
+	background-color: yellow;
+}
+
+footer{
+	clear: left;
+	background-color: fuchsia;
+}
+
+img{
+	float: left;
+	margin-right: 20px;
+}
+
+.wrapper{
+	width: 960px;
+	margin: 0 auto;
+}
+p{
+	margin: 0px 20px;
+}
